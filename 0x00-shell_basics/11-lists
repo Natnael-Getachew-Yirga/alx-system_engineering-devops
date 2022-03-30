@@ -1,0 +1,4 @@
+#!/bi/bash
+ls -la
+ls -la cd ..
+ls -la cd /root
